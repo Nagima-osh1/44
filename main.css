@@ -1,0 +1,27 @@
+body {
+   position: absolute; 
+   left: 0%;
+   right: 0%;
+   top: 0%;
+   bottom: 0.1%;
+   background-color: #ff0000;
+}
+
+header {
+   position: absolute; 
+   left: 0%;
+   right: 0%;
+   top: 0%;
+   bottom: 82.7%;
+   background-color: #33c6f4;
+}
+
+nav {
+    position: absolute; 
+   left: 10%;
+   right: 0%;
+   top: 20%;
+   bottom: 82.7%;
+   
+   
+}
